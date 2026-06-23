@@ -26,5 +26,10 @@ This project analyzes restaurant data using Python, Pandas, NumPy, and Matplotli
 - Online delivery is more common among mid-range restaurants.
 - Dark Green restaurants have the highest ratings.
 
+## ## 📊 Sample Visualizations
+
+![Rating Distribution](Distribution%20of%20Aggregate%20Ratings.png)
+![Top 10 Cities](Top%2010%20Cities%20by%20Restaurant%20Count.png)
+
 ## Author
 Vaibhav Chauhan
